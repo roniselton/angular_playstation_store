@@ -1,0 +1,1 @@
+# angular_playstation_store
